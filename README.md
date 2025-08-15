@@ -1,0 +1,2 @@
+# coDelfosRiesgos_rdcScoreOriginacionTipo2_GL
+Backup/prueba de repositorio coDelfosRiesgos_rdcScoreOriginacionTipo2_GL
